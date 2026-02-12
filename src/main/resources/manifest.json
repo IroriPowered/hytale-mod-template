@@ -1,0 +1,18 @@
+{
+    "Group": "IroriPowered",
+    "Name": "Template",
+    "Version": "${version}",
+    "Website": "https://www.irori.cc/",
+    "Description": "A simple mod template for Hytale.",
+    "Main": "cc.irori.template.TemplatePlugin",
+    "Authors": [
+        {
+            "Name": "KabanFriends",
+            "Url": "https://github.com/KabanFriends"
+        }
+    ],
+    "ServerVersion": "*",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "IncludesAssetPack": false
+}

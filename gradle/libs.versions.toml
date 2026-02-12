@@ -1,0 +1,11 @@
+[versions]
+spotless = "8.2.1"
+shadow = "9.3.1"
+hytale = "+"
+
+[libraries]
+hytale = { group = "com.hypixel.hytale", name = "Server", version.ref = "hytale" }
+
+[plugins]
+spotless = { id = "com.diffplug.spotless", version.ref = "spotless" }
+shadow = { id = "com.gradleup.shadow", version.ref = "shadow" }
